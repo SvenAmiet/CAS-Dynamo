@@ -8,7 +8,7 @@ Introduction à Dynamo pour cours C.A.S BIM Coordination 2020
 - Possibilité d'accéder au Package manager via internet
 
 
-** to do:
+# to do:
 
 - Introduction Dynamo + Programmation visuelle
 - Fonctions de base Dynamo Geom
