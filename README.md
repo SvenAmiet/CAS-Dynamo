@@ -7,12 +7,12 @@ Introduction à Dynamo pour cours C.A.S BIM Coordination 2020
 - Revit 2020.2 avec Dynamo 2.3 (installé avec Revit 2020.2) ==> Version d'évaluation 30 jours disponible sur site éditeur
 - Possibilité d'accéder au Package manager via internet
 - Packages Dynamo recommandés:
- - Monocle
- - Lunchbox
- - Rythm
- - SpringNodes
- - SteamNodes
- - CivilConnection
+  Monocle
+  Lunchbox
+  Rythm
+  SpringNodes
+  SteamNodes
+  CivilConnection
 
 
 # to do:
