@@ -17,11 +17,11 @@ Introduction à Dynamo pour cours C.A.S BIM Coordination 2020
 
 # to do:
 
-- Introduction Dynamo + Programmation visuelle
-- Fonctions de base Dynamo Geom
-- Fonctions de base Dynamo Data/lists
-- Lien Revit - Bases
-- Lien Revit - Import/export
+- Introduction Dynamo + Programmation visuelle  ==> OK
+- Fonctions de base Dynamo Geom  ==> OK
+- Fonctions de base Dynamo Data/lists  ==> OK
+- Lien Revit - Bases ==> OK
+- Lien Revit - Import/export  ==> OK
 - Lien Revit - Placement de familles génériques selon coordonnées excel
 - Lien Revit - Création de paramètres partagés selon excel
 
